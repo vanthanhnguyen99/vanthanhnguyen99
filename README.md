@@ -10,7 +10,7 @@
 
 
 
-<a href="https://fb.com/vanthanhnguyen1999" target="blank">Facebook: <img align="center" src="fb.com/vanthanhnguyen1999" alt="Medium" height="30" width="40" /></a>
+<a href="https://fb.com/vanthanhnguyen1999" target="blank">Facebook</a>
 
 - 🔭 I’m currently working on TMA Solution
 - 🌱 I’m currently learning 5G Networking
