@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Welcome+to+my=profile.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Welcome+to+my+profile.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="300" height = "300" src="https://github.com/vanthanhnguyen99/vanthanhnguyen99/blob/main/avatar.jpg" />
@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img src="https://github.com/vanthanhnguyen99/vanthanhnguyen99/blob/main/pngwing.com.png" alt="bash" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
+<code><img src="https://github.com/vanthanhnguyen99/vanthanhnguyen99/blob/main/java-icon.png" alt="css3" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
