@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Embedded+Developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://github.com/vanthanhnguyen99/vanthanhnguyen99/blob/main/avatar.jpg" />
+  <img width="960" height = "960" src="https://github.com/vanthanhnguyen99/vanthanhnguyen99/blob/main/avatar.jpg" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Thanh!</h2>
 
