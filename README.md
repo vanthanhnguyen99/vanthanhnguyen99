@@ -21,7 +21,7 @@
 ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanthanhnguyen99&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthanhnguyen99&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthanhnguyen99&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanthanhnguyen99&theme=neon-palenight&hide_border=true)
 
