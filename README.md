@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthanhnguyen99&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanthanhnguyen99&theme=neon-palenight&hide_border=true)
 
 <h3 align="left">Languages and Tools:</h3>
 
