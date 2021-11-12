@@ -9,8 +9,8 @@
 <h2 align="center">Hi there 👋, I'm Thanh!</h2>
 
 
-
-<a href="https://fb.com/vanthanhnguyen1999" target="blank">Facebook</a>
+<!-- 
+<a href="https://fb.com/vanthanhnguyen1999" target="blank">Facebook</a> -->
 
 - 🔭 I’m currently working on TMA Solution
 - 🌱 I’m currently learning 5G Networking
