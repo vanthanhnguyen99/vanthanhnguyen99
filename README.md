@@ -1,7 +1,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Welcome+to+my+profile.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&center=true&lines=Welcome+to+my+profile.++++++++++)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img width="300" height = "300" src="https://github.com/vanthanhnguyen99/vanthanhnguyen99/blob/main/avatar.jpg" />
