@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&center=true&lines=.Welcome+to+my+profile.+And+have+a+nice+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&center=true&lines=~Welcome+to+my+profile.+And+have+a+nice+day~)](https://git.io/typing-svg)
 
 
 <p align="center">
