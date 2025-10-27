@@ -14,7 +14,7 @@
 <a href="https://fb.com/vanthanhnguyen1999" target="blank">Facebook</a> -->
 
 - 🔭 I’m currently working on TMA Solution
-- 🌱 I’m currently learning 5G Networking
+- 🌱 I’m currently working on embeded domain
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=vanthanhnguyen99&column=9&theme=gruvbox&no-frame=true"/>
